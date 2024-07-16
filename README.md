@@ -8,6 +8,7 @@
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![JavaScript](https://skillicons.dev/icons?i=react)
 
 #### Frameworks, Platforms and Libraries
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)

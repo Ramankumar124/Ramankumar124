@@ -8,18 +8,31 @@
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![JavaScript](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=bash)
 
-#### Frameworks, Platforms and Libraries
+
+#### Frameworks, Platforms and Libraries and DataBases
+![react](https://skillicons.dev/icons?i=react)
+![NodeJs](https://skillicons.dev/icons?i=nodejs)
+![MongoDb](https://skillicons.dev/icons?i=mongodb)
+![express](https://skillicons.dev/icons?i=express)
+![express](https://skillicons.dev/icons?i=redux)
+
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+
+
 <img style="height:50px " src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif"></img>
 
 #### Favorite IDE/Editors
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 
-#### Version Control
+#### Version Control And containerization
 ![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub](https://skillicons.dev/icons?i=github)  
+![Docker](https://skillicons.dev/icons?i=docker)  
+
 
 #### Operating System
 
@@ -38,11 +51,6 @@ Mob No:9914722215
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ramankumar124">
-    <img src="https://github-stats-alpha.vercel.app/api/?username=Ramankumar124&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats"/>
-  </a>
-</p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramankumar124&theme=algolia" alt="Profile Summary Card"/>

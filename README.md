@@ -33,8 +33,8 @@ Mob No:9914722215
 ### GitHub Analytics
 <p align="center">
   <a href="https://github.com/CodingAdda0506">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ramankumar124&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramankumar124&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ramankumar124&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <a height="180em" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ramankumar124&theme=highcontrast&card_width=498" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -46,6 +46,8 @@ Mob No:9914722215
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramankumar124&theme=algolia" alt="Profile Summary Card"/>
+ 
+ 
 </p>
 
 <p align="center">

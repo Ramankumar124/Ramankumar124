@@ -13,7 +13,7 @@ I’m a full stack developer focused on building scalable, high-performance web 
 | -  GSAP, Scroll Trigger, Locomotive Scroll| - Communication   |  Arduino Ide , Arduino Cloud, Wokwi| | 
 | - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Replit |.
 | - MongoDB, PostgreSQL , SQl, Redis  |  |   
-| - Prisma ORM,Drizzle ORM, Firebase, JWT, PeerJs  |   |   |  
+| - Prisma ORM,Drizzle ORM, Firebase, JWT, PeerJs, MCP ,n8n  |   |   |  
 | - Socket.io, WebRTC,Oauth2,MQTT  |   |   |  
 | - Strong foundation in Data Structures & Algorithms  |   |   |  
 | - AWS (S3, EC2, CloudFront, Nginx)  |   |   |  
